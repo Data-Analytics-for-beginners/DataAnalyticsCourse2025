@@ -91,6 +91,8 @@ OSEMN (Obtain, Scrub, Explore, Model, iNterpret) - це лінійний, але
 
 На основі фреймворків, ось покроковий посібник з робочого процесу Data Science, що поєднує ASEMIC, CRISP-DM, OSEMN та інші інсайти:
 
+![](https://www.dasca.org/Content/Images/main/steps-in-a-data-science-workflow.jpg)
+
 ### Крок 1: Визначити проблему
 
 Почніть з розуміння бізнес-цілі. Запитайте:

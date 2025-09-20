@@ -1,6 +1,306 @@
 
 
 
+# Систематизація статей DataCamp по лекціях курсу Data Analytics
+
+## Лекція 1: Вступ до Data Analytics
+
+### Основні концепції
+- [What is Data Analysis? An Expert Guide With Examples](https://www.datacamp.com/blog/what-is-data-analysis-expert-guide)
+- [9 Essential Data Analyst Skills: A Comprehensive Career Guide](https://www.datacamp.com/blog/data-analyst-skills-for-career-success)
+- [Data Analyst vs. Data Scientist: A Comparative Guide For 2025](https://www.datacamp.com/blog/data-analyst-vs-data-scientist-a-comparative-guide)
+
+### Ролі в data-driven організації
+- [Data Scientist vs Data Engineer](https://www.datacamp.com/blog/data-scientist-vs-data-engineer)
+- [What Does a Data Analyst Do?](https://www.datacamp.com/blog/what-does-data-analyst-do)
+- [What Does a Data Engineer Do?](https://www.datacamp.com/blog/what-does-data-engineer-do)
+- [8 Types of Data Analytics to Improve Decision-Making](https://www.datacamp.com/blog/types-of-data-analytics-to-improve-decision-making)
+
+### Кар'єрні можливості
+- [How to Become a Data Analyst in 2025: 5 Steps to Start Your Career](https://www.datacamp.com/blog/how-to-become-a-data-analyst)
+- [Data Analyst Salaries Around the World: How Much Do Data Analysts Make?](https://www.datacamp.com/blog/data-analyst-salaries-worldwide)
+- [The Top 10 Data Analytics Careers For 2025: Skills, Salaries & Career Prospects](https://www.datacamp.com/blog/top-ten-analytics-careers)
+
+---
+
+## Лекція 2: Аналіз даних за допомогою статистики
+
+### Описова статистика
+- [Data Demystified: An Overview of Descriptive Statistics](https://www.datacamp.com/blog/data-demystified-an-overview-of-descriptive-statistics)
+- [Data Demystified: Quantitative vs. Qualitative Data](https://www.datacamp.com/blog/data-demystified-quantitative-vs-qualitative-data)
+
+### Статистичний аналіз
+- [Correlation vs. Causation: Understanding the Difference in Data Analysis](https://www.datacamp.com/blog/data-demystified-correlation-vs-causation)
+- [Conditional Probability: A Close Look](https://www.datacamp.com/blog/conditional-probability)
+- [The Standard Normal Distribution: What It Is and Why It Matters](https://www.datacamp.com/blog/standard-normal-distribution)
+- [R Correlation Tutorial](https://www.datacamp.com/blog/r-correlation-tutorial)
+
+### Тестування гіпотез
+- [Data Demystified: What is A/B Testing?](https://www.datacamp.com/blog/data-demystified-what-is-a-b-testing)
+- [The Top 35 Statistics Interview Questions and Answers for 2025](https://www.datacamp.com/blog/statistics-interview-questions)
+
+### Навчальні ресурси
+- [How to Learn Statistics in 2025: A Complete Guide for Beginners](https://www.datacamp.com/blog/learn-statistics)
+
+---
+
+## Лекція 3: Робота з даними
+
+### Типи та якість даних
+- [Data Demystified: What Exactly is Data?](https://www.datacamp.com/blog/data-demystified-what-exactly-is-data)
+- [The Complete Guide to Data Quality: Challenges and Best Practices](https://www.datacamp.com/blog/data-quality)
+- [10 Signs of Bad Data: How to Spot Poor Quality Data](https://www.datacamp.com/blog/10-signs-bad-data-quality)
+
+### Підготовка та очищення даних
+- [Data Preprocessing: A Complete Guide with Python Examples](https://www.datacamp.com/blog/data-preprocessing)
+- [What is Data Wrangling? A Practical Guide With Examples](https://www.datacamp.com/blog/what-is-data-wrangling)
+
+### Структури даних
+- [CSV vs. Excel: Making the Right Choice for Your Data Projects](https://www.datacamp.com/blog/csv-vs-excel)
+- [What Is Data Partitioning? A Complete Guide for Beginners](https://www.datacamp.com/blog/what-is-data-partitioning)
+
+---
+
+## Лекція 4: Інструменти для роботи з даними
+
+### Python для аналізу даних
+- [10 Essential Python Skills All Data Scientists Should Master](https://www.datacamp.com/blog/essential-python-skills-all-data-scientists-should-master)
+- [How to Learn Python From Scratch in 2025: An Expert Guide](https://www.datacamp.com/blog/how-to-learn-python-expert-guide)
+- [Python Roadmap: A 12-Month Learning Path](https://www.datacamp.com/blog/python-roadmap)
+- [6 Python Best Practices for Better Code](https://www.datacamp.com/blog/python-best-practices-for-better-code)
+- [An Introduction to Pandas AI](https://www.datacamp.com/blog/an-introduction-to-pandas-ai)
+- [An Introduction to Polars: Python's Tool for Large-Scale Data Analysis](https://www.datacamp.com/blog/an-introduction-to-polars-python-s-tool-for-large-scale-data-analysis)
+
+### R для статистичного аналізу
+- [How to Learn R From Scratch in 2025: An Expert Guide](https://www.datacamp.com/blog/learn-r)
+- [What Is R? - An Introduction to The Statistical Computing Powerhouse](https://www.datacamp.com/blog/all-about-r)
+- [Python vs R for Data Science: Which Should You Learn?](https://www.datacamp.com/blog/python-vs-r-for-data-science-whats-the-difference)
+
+### Робочі середовища
+- [The Past, Present, And Future of The Data Science Notebook](https://www.datacamp.com/blog/the-past-present-and-future-of-the-data-science-notebook)
+- [Jupyter And R Markdown: Notebooks With R](https://www.datacamp.com/blog/jupyter-and-r-markdown-notebooks-with-r)
+- [IPython Or Jupyter?](https://www.datacamp.com/blog/ipython-or-jupyter)
+
+### Порівняння інструментів
+- [Julia vs Python - Which Should You Learn?](https://www.datacamp.com/blog/julia-vs-python-which-to-learn)
+- [Julia vs R - Which Should You Learn?](https://www.datacamp.com/blog/julia-vs-r-which-to-learn)
+
+---
+
+## Лекція 5: Робота з SQL: Базова практика
+
+### Основи SQL
+- [What is SQL? The Essential Language for Database Management](https://www.datacamp.com/blog/all-about-sql-the-essential-language-for-database-management)
+- [How to Learn SQL From Scratch in 2025: An Expert Guide](https://www.datacamp.com/blog/learn-sql)
+- [SQL Roadmap: A 12-Month Learning Path to Master SQL](https://www.datacamp.com/blog/sql-roadmap)
+
+### Базові операції
+- [What is SQL Used For? 7 Top SQL Uses](https://www.datacamp.com/blog/what-is-sql-used-for)
+- [SQL vs Python: Which Should You Learn?](https://www.datacamp.com/blog/sql-vs-python-which-to-learn)
+- [R vs SQL - Which Should I Learn?](https://www.datacamp.com/blog/r-vs-sql-which-to-choose)
+
+### Структури баз даних
+- [SQL Server, PostgreSQL, MySQL: What's the Difference?](https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start)
+- [Database vs. Spreadsheet: Comparing Features and Benefits](https://www.datacamp.com/blog/database-vs-spreadsheet)
+
+---
+
+## Лекція 6: Робота з SQL: Поглиблена практика
+
+### Складні SQL операції
+- [SQL Query Optimization: 15 Techniques for Better Performance](https://www.datacamp.com/blog/sql-query-optimization)
+- [Top 85 SQL Interview Questions and Answers for 2025](https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners)
+- [20 Top SQL Joins Interview Questions](https://www.datacamp.com/blog/top-sql-joins-interview-questions)
+
+### Різні СУБД
+- [PostgreSQL vs. MySQL: Choosing the Right Database for Your Project](https://www.datacamp.com/blog/postgresql-vs-mysql)
+- [PostgreSQL vs MongoDB: Choosing the Right Database for Your Data Projects](https://www.datacamp.com/blog/postgresql-vs-mongodb)
+- [MySQL vs MongoDB: Choosing the Right Database for Your Project](https://www.datacamp.com/blog/mysql-vs-mongodb)
+
+### Практичні проекти
+- [10 Portfolio-Ready SQL Projects for All Levels](https://www.datacamp.com/blog/sql-projects-for-all-levels)
+- [5 SQL Challenges to Practice Your Skills](https://www.datacamp.com/blog/5-sql-challenges-to-practice-your-skills)
+
+---
+
+## Лекція 7: Візуалізація даних: Excel/Google Sheets
+
+### Основи візуалізації
+- [Data Demystified: Data Visualizations that Capture Distributions](https://www.datacamp.com/blog/data-demystified-data-visualizations-that-capture-distributions)
+- [Data Demystified: Data Visualizations that Capture Relationships](https://www.datacamp.com/blog/data-demystified-data-visualizations-that-capture-relationships)
+- [Data Demystified: Data Visualizations that Capture Trends](https://www.datacamp.com/blog/data-demystified-data-visualizations-that-capture-trends)
+
+### Excel/Google Sheets
+- [12 Excel Projects for Your Data Portfolio](https://www.datacamp.com/blog/excel-projects)
+- [Excel vs. Google Sheets: Which Spreadsheet Tool is Best for You?](https://www.datacamp.com/blog/excel-vs-google-sheets)
+- [How to Learn Excel in 2025: A Complete Guide for Beginners](https://www.datacamp.com/blog/learn-excel)
+- [Working with PivotTables in Excel](https://www.datacamp.com/blog/working-with-pivot-tables-excel)
+
+### Принципи дизайну
+- [Best Practices for Designing Dashboards](https://www.datacamp.com/blog/best-practices-for-designing-dashboards)
+- [11 Data Visualization Techniques for Every Use-Case with Examples](https://www.datacamp.com/blog/data-visualization-techniques)
+- [10 Data Visualization Project Ideas for All Levels](https://www.datacamp.com/blog/data-visualization-projects)
+
+---
+
+## Лекція 8: Візуалізація даних: Streamlit та Dash
+
+### Streamlit
+Хоча у списку немає конкретних статей по Streamlit та Dash, є загальні статті про візуалізацію:
+
+### Загальні інструменти візуалізації
+- [Exploring 12 of the Best Data Visualization Tools in 2023 With Examples](https://www.datacamp.com/blog/12-of-the-best-data-visualizations-tools)
+- [The 10 Best Data Analytics Tools for Data Analysts in 2025](https://www.datacamp.com/blog/the-9-best-data-analytics-tools-for-data-analysts-in-2023)
+
+### Python для візуалізації
+- [Intermediate Python for Data Science: Matplotlib](https://www.datacamp.com/blog/intermediate-python-for-data-science-matplotlib)
+
+---
+
+## Лекція 9: Візуалізація даних: Power BI та Looker Studio
+
+### Power BI основи
+- [What is Power BI? - Beginner's Guide to Power BI](https://www.datacamp.com/blog/all-about-power-bi)
+- [How to Learn Power BI From Scratch in 2025](https://www.datacamp.com/blog/how-to-learn-power-bi)
+- [Power BI Roadmap: A 12-Month Learning Path](https://www.datacamp.com/blog/power-bi-roadmap)
+- [What Is Power BI Used For? Your Questions Answered](https://www.datacamp.com/blog/what-is-power-bi-used-for)
+
+### Power BI практика
+- [9 Power BI Projects To Develop Your Skills](https://www.datacamp.com/blog/8-power-bi-projects-to-develop-your-skills)
+- [Building a Career with Power BI in 2025: Skills, Jobs, and Salaries](https://www.datacamp.com/blog/top-power-bi-jobs-in-2022)
+- [How to Transition From Excel to Power BI](https://www.datacamp.com/blog/how-to-transition-from-excel-to-power-bi)
+
+### Порівняння інструментів
+- [Power BI vs. Tableau: Which is The Better Business Intelligence Tool in 2025?](https://www.datacamp.com/blog/power-bi-vs-tableau-which-one-should-you-choose)
+- [Power BI vs Excel: Which Should You Use?](https://www.datacamp.com/blog/power-bi-vs-excel-which-should-you-use)
+- [Looker Studio vs Power BI: Which One Should You Use?](https://www.datacamp.com/blog/looker-studio-vs-power-bi-which-should-you-use)
+
+---
+
+## Лекція 10: Power BI Desktop (DAX)
+
+### DAX основи
+- [What are Power BI Semantic Models?](https://www.datacamp.com/blog/what-are-power-bi-semantic-models)
+- [Power BI License Types: Who Each Plan Is For](https://www.datacamp.com/blog/power-bi-license-types)
+
+### Кар'єра та сертифікація
+- [Power BI Certification: A Comprehensive Guide to Choosing The Right Path in 2025](https://www.datacamp.com/blog/power-bi-certification)
+- [Power BI Developer Salaries in 2025: Unlock Your Earning Potential](https://www.datacamp.com/blog/power-bi-developer-salaries)
+- [An 8-Step Guide to Becoming a Power BI Developer in 2025](https://www.datacamp.com/blog/becoming-a-power-bi-developer)
+
+### Інтерв'ю та навички
+- [35 Essential Power BI Interview Questions For Every Level](https://www.datacamp.com/blog/power-bi-interview-questions)
+
+---
+
+## Лекція 11: Робота з даними в реальному часі
+
+### Концепції real-time аналітики
+- [Batch vs Stream Processing: When to Use Each and Why It Matters](https://www.datacamp.com/blog/batch-vs-stream-processing)
+
+### Архітектура та технології
+- [What Mature Data Infrastructure Looks Like](https://www.datacamp.com/blog/what-mature-data-infrastructure-looks-like)
+- [Data Integration Explained: Techniques, Platforms & Tools](https://www.datacamp.com/blog/data-integration)
+
+---
+
+## Лекція 12: Інструменти та технології для роботи з даними в реальному часі
+
+### Apache Kafka
+- [How to Learn Apache Kafka in 2025: Resources, Plan, Careers](https://www.datacamp.com/blog/apache-kafka-learn)
+- [20 Kafka Interview Questions for Data Engineers](https://www.datacamp.com/blog/kafka-interview-questions)
+- [Kafka vs RabbitMQ: Key Differences & When to Use Each](https://www.datacamp.com/blog/kafka-vs-rabbitmq)
+- [ActiveMQ vs Kafka: Differences & Use Cases Explained](https://www.datacamp.com/blog/activemq-vs-kafka)
+
+### Big Data технології
+- [Hadoop vs Spark: Which Big Data Framework Is Right For You?](https://www.datacamp.com/blog/hadoop-vs-spark)
+- [Flink vs. Spark: A Comprehensive Comparison](https://www.datacamp.com/blog/flink-vs-spark)
+- [Apache Spark Architecture: A Guide for Data Practitioners](https://www.datacamp.com/blog/apache-spark-architecture)
+
+### Cloud платформи
+- [5 Top Cloud Service Providers in 2025 Compared](https://www.datacamp.com/blog/top-cloud-service-providers-compared)
+- [AWS vs Azure: An In-Depth Comparison of the Two Leading Cloud Services](https://www.datacamp.com/blog/aws-vs-azure)
+
+---
+
+## Лекція 13: Підготовка до проєкту Data Analytics
+
+### Планування проекту
+- [20 Data Analytics Projects for All Levels](https://www.datacamp.com/blog/data-analytics-projects-all-levels)
+- [A Data Science Roadmap for 2025](https://www.datacamp.com/blog/data-science-roadmap)
+
+### Методології та підходи
+- [Data Science ROI: How to Calculate and Maximize It](https://www.datacamp.com/blog/data-science-roi)
+- [How To Manage AI Projects Effectively](https://www.datacamp.com/blog/how-to-manage-ai-projects-effectively)
+
+### Комунікація зі стейкхолдерами
+- [Data-Driven Decision-Making: A Guide For Businesses](https://www.datacamp.com/blog/data-driven-decision-making-guide-for-businesses)
+
+---
+
+## Лекція 14: Проведення проєкту Data Analytics
+
+### Процес аналізу
+- [Data Science Use Cases Guide](https://www.datacamp.com/blog/data-science-use-cases-guide)
+- [5 Common Data Science Challenges and Effective Solutions](https://www.datacamp.com/blog/common-data-science-challenges-and-effective-solutions)
+
+### Практичні навички
+- [How to Analyze Data For Your Business in 5 Steps](https://www.datacamp.com/blog/how-to-analyze-data-for-business)
+
+### Документування
+- [A Data Scientist's Guide to Environment Variables](https://www.datacamp.com/blog/a-data-scientists-guide-to-environment-variables)
+
+---
+
+## Лекція 15: Завершення проєкту
+
+### Формування висновків
+- [Telling Effective Data Stories with Data, Narrative, and Visuals](https://www.datacamp.com/blog/telling-effective-data-stories-with-data-narrative-and-visuals)
+- [Seven Tricks for Better Data Storytelling: Part I](https://www.datacamp.com/blog/seven-tricks-for-better-data-storytelling-part-i)
+- [Seven Tricks for Better Data Storytelling: Part II](https://www.datacamp.com/blog/seven-tricks-for-better-data-storytelling-part-ii)
+
+### Портфоліо
+- [How to build a great data science portfolio (with examples)](https://www.datacamp.com/blog/how-to-build-a-great-data-science-portfolio-with-examples)
+- [5 Places to Host Your Data Science Portfolio](https://www.datacamp.com/blog/5-places-to-host-your-data-science-portfolio)
+
+---
+
+## Лекція 16: Презентація проєкту
+
+### Презентація результатів
+- [AI Data Storytelling: 6 Ways to Enhance Your Insights](https://www.datacamp.com/blog/ai-data-storytelling)
+- [How Data Storytelling Could Save Lives–The Case Study of Semmelweis](https://www.datacamp.com/blog/how-data-storytelling-could-save-lives-the-case-study-of-semmelweis)
+
+### Кар'єрна підготовка
+- [22 Data Analyst Interview Questions: How to Prepare for a Data Analyst Interview in 2024](https://www.datacamp.com/blog/how-to-prepare-for-a-data-analyst-interview)
+- [How to Craft an Impactful Data Analyst Cover Letter (With Examples)](https://www.datacamp.com/blog/data-analyst-cover-letter)
+- [How to Create a Data Analyst Resume (with Templates and Examples)](https://www.datacamp.com/blog/data-analyst-resume)
+
+---
+
+## Додаткові ресурси
+
+### Книги та навчальні матеріали
+- [The 23 Best Data Science Books to Read in 2025](https://www.datacamp.com/blog/the-22-best-data-science-books-to-read-in-2022)
+- [Top 10 Data Visualization Books](https://www.datacamp.com/blog/top-10-data-visualization-books)
+
+### Успішні історії та кейси
+- [From Accountant to Data Analyst: Luqman's Journey to Data-Driven Finance](https://www.datacamp.com/blog/from-accountant-to-data-analyst-luqman-s-journey-to-data-driven-finance)
+- [From Bank Teller to Data Analyst: Chioma's DataCamp Journey](https://www.datacamp.com/blog/from-bank-teller-to-data-analyst-chioma-s-data-camp-journey)
+
+### Конференції та спільноти
+- [10 Top Data Analytics Conferences for 2025](https://www.datacamp.com/blog/top-data-analytics-conferences)
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------------
 
 # Систематизація публікацій DASCA за лекціями курсу "Аналітика даних"

@@ -6,6 +6,16 @@
 - What is Statistical Modeling in Data Science?, https://www.dasca.org/world-of-data-science/article/what-is-statistical-modeling-in-data-science
 - Automated Data Analytics: How, When & Why?, https://www.dasca.org/world-of-data-science/article/automated-data-analytics-how-when-and-why
 - Best 5 BI Tools Widely Applicable for Data Visualization, https://www.dasca.org/world-of-data-science/article/best-5-bi-tools-widely-applicable-for-data-visualization
+- 10 Essential Python Automation Scripts for Data Scientists, https://www.dasca.org/world-of-data-science/article/10-essential-python-automation-scripts-for-data-scientists
+- Top 10 Docker Commands Every Data Engineer Should Know, https://www.dasca.org/world-of-data-science/article/top-10-docker-commands-every-data-engineer-should-know
+- Scheduling Data Pipelines with Apache Airflow: A Beginner’s Guide, https://www.dasca.org/world-of-data-science/article/scheduling-data-pipelines-with-apache-airflow-a-beginners-guide
+- The Simple 5-Step Process for Creating a Winning Data Pipeline, https://www.dasca.org/world-of-data-science/article/the-simple-5-step-process-for-creating-a-winning-data-pipeline
+- Architecting a Data Lake, https://www.dasca.org/world-of-data-science/article/architecting-a-data-lake
+- Unlocking Data’s Potential: Why Effective Data Ingestion Matters, https://www.dasca.org/world-of-data-science/article/unlocking-datas-potential-why-effective-data-ingestion-matters
+- Mastering Database Migration: Best Practices for Smooth Transitions, https://www.dasca.org/world-of-data-science/article/mastering-database-migration-best-practices-for-smooth-transitions
+- What is a Data Warehouse and why is it Important?, https://www.dasca.org/world-of-data-science/article/what-is-a-data-warehouse-and-why-is-it-important
+
+  ----------------------------------------------------------------
 
 
 

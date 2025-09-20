@@ -1,3 +1,199 @@
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+# Систематизація публікацій DASCA за лекціями курсу "Аналітика даних"
+
+## **Лекція 1: Вступ до Data Analytics**
+
+### 1.1-1.2. Що таке аналітика даних та екосистема ролей
+- **Key Data Science Roles in 2025: Responsibilities and Salaries** (7 лютого 2025)
+- **How to Become a Data Scientist: Steps and Top Reasons** (24 травня 2024)
+- **How is Data Science the Essential Tool for Business Success?** (28 грудня 2023)
+- **Analysts Vs Scientists - The Big Data Puzzle** (1 лютого 2016)
+- **Why Every Data Scientist Wants a Data Engineer** (28 серпня 2020)
+
+### 1.3. Типи аналітики та їх застосування
+- **A Beginners Guide to Predictive Analytics: Turning Data Into Insights** (29 липня 2022)
+- **Predictive Modeling Types and Algorithms for Data Success** (14 лютого 2025)
+- **Understanding Real-Time Data Analytics and How It Works** (7 листопада 2024)
+
+### 1.4. Життєвий цикл проекту з аналітики даних
+- **A Step-by-Step Guide to the Data Science Workflow** (14 серпня 2025)
+- **Starting a Data Science Project? These Ingredients will Help!** (24 вересня 2018)
+
+### 1.5-1.6. Навички та кар'єрні траєкторії
+- **Top 10 Soft Skills Every Data Scientist Needs to Succeed** (20 червня 2025)
+- **Data Science Core Skills – What Matters the Most in 2021** (5 березня 2021)
+- **The Role of Data Science Certifications in Shaping Your Career** (24 січня 2025)
+- **Why Data Science Tops the List of In-Demand Skills? Find Out Now!** (23 лютого 2024)
+
+---
+
+## **Лекція 2: Аналіз даних за допомогою статистики**
+
+### 2.1-2.2. Описова статистика та міри розкиду
+- **Essential Statistical Tests for Data Scientists** (6 вересня 2024)
+- **Effective Steps for Performing Accurate Statistical Analysis** (4 грудня 2024)
+
+### 2.3. Розподіли даних та нормальність
+- **What is Statistical Modeling in Data Science?** (19 квітня 2024)
+- **5 Statistical Concepts to Win You a Data Science Job** (11 березня 2021)
+
+### 2.4-2.6. Кореляційний аналіз та тестування гіпотез
+- **Hypothesis Testing in Data Science: Validating Decisions with Data** (30 травня 2025)
+- **Bayesian Statistics: A Key Tool in Modern Data Science** (9 травня 2025)
+- **Essential Regression Analysis Techniques for Data Science** (4 жовтня 2024)
+
+---
+
+## **Лекція 3: Робота з даними**
+
+### 3.1-3.2. Типи даних та джерела
+- **Data Warehouse vs. Data Mart vs. Data Lake: Key Differences** (2 лютого 2024)
+- **What is Data Mapping? Your Roadmap to Streamlined Analytics** (3 травня 2024)
+- **Unlocking Data's Potential: Why Effective Data Ingestion Matters** (17 травня 2024)
+
+### 3.3-3.4. Якість даних та очищення
+- **Using Pandas for Effective Data Cleaning and Preprocessing** (2 серпня 2024)
+- **Strategies for Handling Missing Values in Data Analysis** (19 квітня 2024)
+- **The Role of Data Quality in Shaping the Future of Data Science** (13 грудня 2024)
+- **Why Detecting Outliers is Crucial for Accurate Data Analysis?** (25 жовтня 2024)
+
+### 3.5-3.6. Трансформація та документування
+- **Efficient Data Transformation Techniques for Optimized Analysis** (17 січня 2025)
+- **The Art of Data Wrangling in 2024: Techniques and Trends** (16 лютого 2024)
+- **Data Normalization: What Is It, and Why Is It Crucial in Databases?** (25 квітня 2025)
+
+---
+
+## **Лекція 4: Інструменти для роботи з даними**
+
+### 4.1. Огляд екосистеми інструментів
+- **How to Choose the Perfect Data Analysis Tool: A Step-by-Step Guide** (31 травня 2024)
+- **Data Science Tools: What's Their Role and Why Are They Important?** (14 грудня 2023)
+- **Top 20 Data Science Platforms & Their Most Common Uses** (7 лютого 2020)
+
+### 4.2. Python для аналізу даних
+- **10 Essential Python Automation Scripts for Data Scientists** (22 серпня 2025)
+- **Unlocking Data Manipulation in Python: Key Pandas Techniques** (9 вересня 2024)
+- **What Makes Python the go-to Language for Data Scientists?** (24 січня 2024)
+- **Identifying and Removing Outliers Using Python Packages** (5 березня 2019)
+
+### 4.3-4.4. R та робочі середовища
+- **Which Programming Language is Ideal for Data Science: Python or R?** (24 січня 2024)
+- **R- Not Statistical Computing Anymore!** (17 жовтня 2018)
+- **Master Data Science with these Best Practices for Jupyter Notebook** (28 червня 2024)
+- **Pandas vs. SQL – Tools that Data Scientists use most often** (1 вересня 2021)
+
+### 4.6. Налаштування робочого середовища
+- **The Essentials of Git for Budding Data Scientists** (21 червня 2024)
+- **Top 6 Programming Languages for Data Science in 2021** (9 квітня 2021)
+
+---
+
+## **Лекції 5-6: Робота з SQL (Базова та поглиблена практика)**
+
+### 5.1-5.6. Основи SQL
+- **SQL vs. Excel: When to Use Each for Data Analysis** (11 липня 2025)
+- **Advanced SQL Techniques to Transform Data Analysis** (3 жовтня 2024)
+
+### 6.1-6.6. Поглиблена практика SQL
+- *(Конкретні публікації з advanced SQL техніками в списку не знайдені, але є загальні посилання на роботу з базами даних)*
+
+---
+
+## **Лекції 7-10: Візуалізація даних**
+
+### Лекція 7: Excel/Google Sheets
+- **Getting Started with Power BI for Data Visualization** (16 серпня 2024)
+- **Best 5 BI Tools Widely Applicable for Data Visualization** (22 квітня 2021)
+
+### Лекція 8: Streamlit та Dash
+- *(Спеціалізовані публікації з Streamlit/Dash не знайдені)*
+
+### Лекція 9: Power BI та Looker Studio
+- **Getting Started with Power BI for Data Visualization** (16 серпня 2024)
+
+### Лекція 10: Power BI Desktop (DAX)
+- *(Спеціалізовані публікації з DAX не знайдені)*
+
+### Загальні публікації з візуалізації:
+- **How to Create Impactful Data Visualizations with D3.js?** (3 січня 2025)
+- **The Rise of AI in Advancing Data Visualization** (3 березня 2025)
+- **Color Psychology in Data: The Role of Color in Data Visualization** (15 березня 2024)
+- **Effective Data Storytelling: Tips and Techniques for Success** (10 вересня 2024)
+- **The Value of Data Visualization for Data Science Professionals** (17 червня 2021)
+- **Importance of Data-Driven Storytelling: Data Analysis & Visual Narratives** (4 лютого 2022)
+
+---
+
+## **Лекції 11-12: Робота з даними в реальному часі**
+
+### 11.1-11.6. Концепції потокової обробки
+- **Understanding Real-Time Data Analytics and How It Works** (7 листопада 2024)
+- **Real-time Analytics in Big Data, "Really" works!!** (13 серпня 2018)
+
+### 12.1-12.6. Інструменти та технології
+- **Scheduling Data Pipelines with Apache Airflow: A Beginner's Guide** (20 вересня 2024)
+- **The Simple 5-Step Process for Creating a Winning Data Pipeline** (18 травня 2021)
+- **What is a Batch Data Pipeline? How to Build One?** (27 березня 2024)
+- **Managing Schema Evolution in Data Pipelines** (16 червня 2025)
+
+---
+
+## **Лекції 13-16: Проектна робота**
+
+### Лекція 13: Підготовка до проекту
+- **Top Data Science Projects for Real-World Impact** (11 жовтня 2024)
+- **How Data Scientists Can Build an Innovation Culture** (12 серпня 2020)
+
+### Лекція 14: Проведення проекту
+- **A Comprehensive Guide to Mastering Exploratory Data Analysis** (23 серпня 2024)
+- **Effortless Data and Model Versioning with DVC** (14 листопада 2024)
+
+### Лекція 15: Завершення проекту
+- **9 Common Mistakes Data Scientists Must Avoid** (12 серпня 2022)
+
+### Лекція 16: Презентація проекту
+- **Effective Data Storytelling: Tips and Techniques for Success** (10 вересня 2024)
+- **How Does Data-Driven Decision Making Improve Business Outcomes?** (4 березня 2024)
+
+---
+
+## **Додаткові публікації за тематикою**
+
+### Машинне навчання та ШІ
+- **How to Integrate LLMs into Data Science: A Beginner's Roadmap** (1 серпня 2025)
+- **The Ultimate Guide to Building Recommendation Systems in Python** (19 липня 2024)
+- **Decision Trees: A Powerful Data Analysis Tool for Data Scientists** (29 березня 2024)
+- **Shining Light on Explainable AI: The Black Box for Data Scientists** (12 квітня 2024)
+
+### Спеціалізовані застосування
+- **Time Series Analysis in Python: Key Concepts and Forecasting** (14 березня 2025)
+- **Harnessing LLMs and Snowflake for Scalable Sentiment Analysis** (2 червня 2025)
+- **How to Master Web Scraping with Python and BeautifulSoup?** (2 серпня 2024)
+
+### Хмарні технології та Big Data
+- **Top 10 Docker Commands Every Data Engineer Should Know** (18 липня 2025)
+- **Top Open-Source Tools Every Data Engineer Should Know** (13 червня 2025)
+- **Elevate Data Science with Cloud Computing: A Symbiotic Partnership** (19 жовтня 2023)
+
+Ця систематизація охоплює основні теми вашого курсу, хоча деякі специфічні інструменти (як Streamlit, DAX) мають обмежене покриття в наявних публікаціях DASCA.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 # DataAnalyticsCourse2025
 
 

@@ -398,10 +398,374 @@
 
 Курс тепер готує студентів до роботи з AI як інструментом підсилення їхніх аналітичних здібностей, а не як замінником людської експертизи. Це відповідає сучасним трендам індустрії, де AI використовується для автоматизації рутинних завдань та підвищення продуктивності аналітиків.
 
+-----------------------------------------------------------------------------------------------------------
+
+# Курс "AI-Enhanced Data Analytics для початківців"
+## Структура курсу з інтеграцією штучного інтелекту
+
+### **Оновлений опис курсу**
+Курс з аналізу даних навчає процесу дослідження, очищення, перетворення та моделювання даних з використанням традиційних методів та сучасних AI-технологій. Опануйте методи маніпулювання даними, статистичного аналізу, техніки візуалізації та застосування штучного інтелекту для автоматизації аналітичних процесів. У сучасному світі володіння навичками AI-Enhanced Data Analytics є критично важливим для прийняття обґрунтованих рішень та створення конкурентних переваг.
+
+---
+
+## **Лекція 1: Вступ до AI-Enhanced Data Analytics**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Визначити роль AI в сучасній аналітиці даних
+- Розрізняти традиційні та AI-підсилені методи аналізу
+- Порівняти ролі Data Analyst, AI-Analyst, Data Scientist
+- Ідентифікувати можливості автоматизації в аналітичних процесах
+- Оцінити етичні аспекти використання AI в аналітиці
+
+### Розділи лекції:
+1.1. Еволюція аналітики: від традиційних методів до AI  
+1.2. AI як інструмент підсилення аналітика (Human+AI)  
+1.3. Екосистема AI-Enhanced Analytics  
+1.4. Автоматизовані інсайти vs людська експертиза  
+1.5. Етика та відповідальність в AI-аналітиці  
+1.6. Майбутнє професії: AI-Augmented Analyst  
+
+---
+
+## **Лекція 2: AI-підсилений аналіз даних та статистика**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Використовувати AI для автоматичного виявлення статистичних закономірностей
+- Застосовувати машинне навчання для статистичного моделювання
+- Автоматизувати тестування гіпотез за допомогою AI
+- Інтерпретувати результати AI-генерованих статистичних аналізів
+- Валідувати AI-висновки традиційними статистичними методами
+
+### Розділи лекції:
+2.1. Автоматичне виявлення розподілів та аномалій  
+2.2. AI для генерації та тестування гіпотез  
+2.3. Машинне навчання в статистичному моделюванні  
+2.4. Automated Statistical Analysis з Python/R  
+2.5. Інтерпретація AI-генерованих статистичних звітів  
+2.6. Валідація та верифікація AI-результатів  
+
+---
+
+## **Лекція 3: Робота з даними: AI-автоматизація процесів**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Використовувати AI для автоматичного очищення даних
+- Застосовувати алгоритми виявлення аномалій
+- Автоматизувати процеси трансформації даних
+- Використовувати GenAI для генерації синтетичних даних
+- Оцінювати якість даних за допомогою AI-метрик
+
+### Розділи лекції:
+3.1. AI-powered Data Profiling та Quality Assessment  
+3.2. Автоматичне виявлення та виправлення помилок  
+3.3. Machine Learning для імпутації пропущених значень  
+3.4. Synthetic Data Generation з GANs  
+3.5. AI-асистенти для ETL процесів  
+3.6. Automated Data Validation та Monitoring  
+
+---
+
+## **Лекція 4: AI-інструменти для роботи з даними**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Використовувати AutoML платформи для аналізу
+- Працювати з AI-асистентами для кодування (GitHub Copilot, ChatGPT)
+- Застосовувати no-code/low-code AI рішення
+- Інтегрувати AI API в аналітичні процеси
+- Обирати відповідні AI-інструменти для конкретних завдань
+
+### Розділи лекції:
+4.1. AutoML платформи (H2O.ai, Google AutoML, Azure ML)  
+4.2. AI-асистенти для програмування (Copilot, ChatGPT Code)  
+4.3. No-code AI analytics (Obviously AI, DataRobot)  
+4.4. Integration AI APIs (OpenAI, Claude, Gemini)  
+4.5. AI-enhanced Jupyter Notebooks  
+4.6. Порівняння традиційних та AI-інструментів  
+
+---
+
+## **Лекція 5: AI-підсилена робота з SQL**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Генерувати SQL-запити за допомогою AI
+- Оптимізувати запити з використанням AI-рекомендацій
+- Використовувати Natural Language to SQL конвертери
+- Автоматизувати створення складних аналітичних запитів
+- Валідувати AI-генеровані SQL-запити
+
+### Розділи лекції:
+5.1. Natural Language to SQL (Text-to-SQL AI)  
+5.2. AI SQL Query Optimization  
+5.3. Automated Query Generation для стандартних звітів  
+5.4. SQL Copilot та інтелектуальні підказки  
+5.5. AI-powered Database Schema Analysis  
+5.6. Валідація та тестування AI-генерованих запитів  
+
+---
+
+## **Лекція 6: Поглиблена AI-SQL практика**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Створювати складні аналітичні pipeline з AI-компонентами
+- Використовувати AI для автоматичного створення звітів
+- Застосовувати машинне навчання всередині SQL
+- Автоматизувати моніторинг якості даних
+- Інтегрувати AI-моделі в SQL-запити
+
+### Розділи лекції:
+6.1. ML-in-Database: BigQuery ML, SQL Server ML  
+6.2. Automated Report Generation з AI  
+6.3. AI-powered Data Lineage та Impact Analysis  
+6.4. Intelligent Data Discovery та Cataloging  
+6.5. Automated Anomaly Detection в SQL  
+6.6. Real-time AI Analytics в базах даних  
+
+---
+
+## **Лекція 7: AI-візуалізація: Excel/Google Sheets + AI**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Використовувати AI для автоматичного створення графіків
+- Застосовувати розумні рекомендації для візуалізації
+- Генерувати інсайти з даних за допомогою AI
+- Створювати динамічні AI-дашборди
+- Автоматизувати процес звітності з AI
+
+### Розділи лекції:
+7.1. AI-powered Chart Recommendations  
+7.2. Automated Insight Generation (Google Sheets Explore)  
+7.3. Natural Language Queries для даних  
+7.4. AI-assisted Dashboard Creation  
+7.5. Intelligent Data Storytelling  
+7.6. Automated Report Narration з AI  
+
+---
+
+## **Лекція 8: AI-візуалізація: Intelligent Streamlit та Dash**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Інтегрувати AI-моделі в Streamlit додатки
+- Створювати чат-боти для аналітики даних
+- Будувати intelligent dashboards з real-time AI
+- Автоматизувати генерацію візуалізацій
+- Створювати персоналізовані AI-аналітичні додатки
+
+### Розділи лекції:
+8.1. AI-Chatbots для Data Analytics (LangChain + Streamlit)  
+8.2. Real-time AI Predictions в Dash  
+8.3. Automated Visualization Generation  
+8.4. Intelligent User Interface Design  
+8.5. Персоналізація та рекомендаційні системи  
+8.6. Voice-to-Data Analytics  
+
+---
+
+## **Лекція 9: AI-підсилені Power BI та Looker Studio**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Використовувати AI-функції Power BI (Q&A, Quick Insights)
+- Застосовувати machine learning в Looker Studio
+- Створювати predictive analytics дашборди
+- Автоматизувати виявлення трендів та аномалій
+- Інтегрувати external AI models в BI інструменти
+
+### Розділи лекції:
+9.1. Power BI AI Features (Q&A, Insights, Decomposition Tree)  
+9.2. Looker Studio ML Integration  
+9.3. Predictive Analytics Dashboards  
+9.4. Automated Anomaly Detection у візуалізаціях  
+9.5. Custom AI Models Integration  
+9.6. Intelligent Alerting Systems  
+
+---
+
+## **Лекція 10: Advanced AI-DAX та Machine Learning Models**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Інтегрувати ML-моделі в DAX формули
+- Створювати predictive measures з AI
+- Використовувати AutoML для створення Power BI моделей
+- Автоматизувати створення складних розрахунків
+- Оптимізувати моделі даних за допомогою AI
+
+### Розділи лекції:
+10.1. ML-enhanced DAX Functions  
+10.2. Predictive Measures та Forecasting  
+10.3. AutoML Integration в Power BI  
+10.4. AI-powered Model Optimization  
+10.5. Intelligent Relationship Detection  
+10.6. Automated Performance Tuning  
+
+---
+
+## **Лекція 11: AI в Real-time Data Analytics**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Застосовувати AI для real-time аномалії detection
+- Створювати intelligent streaming analytics
+- Використовувати AI для predictive maintenance
+- Автоматизувати real-time decision making
+- Інтегрувати ML-моделі в потокові системи
+
+### Розділи лекції:
+11.1. Real-time AI Anomaly Detection  
+11.2. Streaming Machine Learning  
+11.3. Edge AI для IoT Analytics  
+11.4. Intelligent Event Processing  
+11.5. Real-time Personalization Engines  
+11.6. Automated Response Systems  
+
+---
+
+## **Лекція 12: AI-технології для real-time обробки**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Розгортати ML-моделі в Kafka streams
+- Використовувати AI для intelligent routing
+- Створювати adaptive streaming systems
+- Моніторити AI-моделі в production
+- Автоматизувати scaling та optimization
+
+### Розділи лекції:
+12.1. ML-in-Kafka: Kafka Streams ML  
+12.2. Spark Streaming з MLlib  
+12.3. Real-time Model Serving (MLflow, Seldon)  
+12.4. Intelligent Data Routing  
+12.5. Adaptive Learning Systems  
+12.6. AI-powered Infrastructure Monitoring  
+
+---
+
+## **Лекція 13: AI-підготовка до проєкту Data Analytics**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Формулювати AI-enhanced аналітичні завдання
+- Обирати optimal AI/ML підходи для проекту
+- Планувати Human-in-the-loop workflows
+- Оцінювати AI readiness організації
+- Проектувати ethical AI analytics frameworks
+
+### Розділи лекції:
+13.1. AI Project Scoping та Problem Definition  
+13.2. AI/ML Method Selection Framework  
+13.3. Human-AI Collaboration Design  
+13.4. AI Ethics та Bias Mitigation Planning  
+13.5. MLOps Planning для аналітичних проектів  
+13.6. AI ROI та Success Metrics  
+
+---
+
+## **Лекція 14: Проведення AI-Enhanced проєкту**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Виконувати повний цикл AI-analytics project
+- Комбінувати traditional та AI-методи
+- Впроваджувати continuous learning systems
+- Моніторити AI-model performance
+- Створювати explainable AI analytics
+
+### Розділи лекції:
+14.1. Automated EDA з AI  
+14.2. Hybrid Human-AI Analysis Workflows  
+14.3. Model Development та Validation  
+14.4. Explainable AI для Business Stakeholders  
+14.5. Continuous Learning Implementation  
+14.6. AI Model Monitoring та Maintenance  
+
+---
+
+## **Лекція 15: Завершення AI-проєкту**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Оцінювати AI-model performance та business impact
+- Документувати AI-decision processes
+- Планувати model lifecycle management
+- Створювати AI governance frameworks
+- Підготувати handover для production teams
+
+### Розділи лекції:
+15.1. AI Model Performance Evaluation  
+15.2. Business Impact Assessment  
+15.3. AI Explainability Documentation  
+15.4. Model Lifecycle Management Planning  
+15.5. AI Governance та Compliance  
+15.6. Production Deployment Preparation  
+
+---
+
+## **Лекція 16: Презентація AI-Enhanced проєкту**
+
+### Навчальні цілі:
+Після завершення лекції студенти зможуть:
+- Презентувати AI-results non-technical аудиторії
+- Пояснювати AI-decision making processes
+- Демонструвати business value AI-analytics
+- Обговорювати AI limitations та risks
+- Планувати future AI enhancements
+
+### Розділи лекції:
+16.1. AI Results Storytelling для Business  
+16.2. Explainable AI Presentations  
+16.3. ROI Demonstration for AI Projects  
+16.4. Risk Communication та Limitations  
+16.5. Future AI Roadmap Planning  
+16.6. Building AI-Ready Analytics Culture  
+
+---
+
+## **Додаткові AI-специфічні компоненти курсу:**
+
+### **AI Ethics Workshop** (після лекції 8)
+- Bias detection та mitigation
+- Fairness в AI-analytics
+- Privacy-preserving analytics
+- Transparent AI decision making
+
+### **Hands-on AI Tools Lab** (після лекції 12)
+- ChatGPT для analytics workflows
+- Claude для data interpretation
+- GitHub Copilot для SQL/Python
+- AutoML platforms comparison
+
+### **AI Project Showcase** (фінальний захист)
+- Live demo AI-enhanced dashboard
+- Business impact presentation
+- AI explainability session
+- Peer review та feedback
+
+---
+
+## **Оновлена структура оцінювання:**
+
+- **AI-Enhanced практичні завдання (35%)**
+- **Traditional vs AI methods comparison (15%)**
+- **AI Ethics та Explainability assignments (10%)**
+- **Фінальний AI-проект (30%)**
+- **AI-Enhanced презентація (10%)**
+
+## **Додаткові ресурси:**
+- Доступ до AI/ML platforms (OpenAI API, Google AI)
+- AutoML tools ліцензії
+- AI ethics frameworks та guidelines
+- Real-time streaming infrastructure для AI models
 
 
-
-
+----------------------------------------------------------------------------
 
 
 

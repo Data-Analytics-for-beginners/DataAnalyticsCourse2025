@@ -1,5 +1,428 @@
 
 
+- https://www.dasca.org/world-of-data-science/categories/insights
+
+# Огляд блогу про Data Science
+
+Цей документ містить каталог статей блогу, присвяченого науці про дані (Data Science), що охоплює публікації з серпня 2016 по серпень 2025 року.
+
+## Основні тематичні напрямки:
+
+**Автоматизація та інструменти**
+- Python-скрипти для автоматизації завдань
+- Docker команди для інженерів даних
+- Інструменти з відкритим кодом
+- Apache Airflow для побудови пайплайнів
+
+**Обробка та аналіз даних**
+- Техніки очищення даних з Pandas
+- Дослідницький аналіз даних (EDA)
+- Статистичні тести та моделювання
+- Обробка пропущених значень
+
+**Машинне навчання**
+- Алгоритми прогнозного моделювання
+- Рекомендаційні системи
+- Дерева рішень
+- Виявлення аномалій
+
+**Візуалізація даних**
+- Power BI та D3.js
+- Психологія кольору в візуалізації
+- Storytelling з даними
+
+**Інфраструктура та архітектура**
+- Сховища даних та озера даних
+- Хмарні обчислення
+- Управління схемами в пайплайнах
+- Версіонування даних з DVC
+
+**Штучний інтелект та великі мовні моделі**
+- Інтеграція LLM в Data Science
+- Відповідальний ШІ
+- Пояснювальний ШІ
+
+**Спеціалізовані застосування**
+- Аналіз настроїв
+- Аналіз часових рядів
+- Веб-скрепінг
+- Системи виявлення зброї
+
+**Кар'єра та навички**
+- Ролі в Data Science 2025
+- Сертифікації
+- Soft skills для data scientist
+- Порівняння Python vs R
+
+**Галузеві застосування**
+- Охорона здоров'я
+- Фінанси та інвестиції
+- Космічні дослідження
+- Оборонна промисловість
+
+Блог демонструє еволюцію галузі Data Science - від базових концепцій Big Data до сучасних тем, таких як інтеграція LLM, відповідальний ШІ та автоматизація робочих процесів.
+
+
+-------------------
+
+# Повний перелік публікацій блогу
+
+## 2025 рік
+
+**Серпень 2025**
+- 10 Essential Python Automation Scripts for Data Scientists (22 серпня)
+- A Step-by-Step Guide to the Data Science Workflow (14 серпня)
+- How to Integrate LLMs into Data Science: A Beginner's Roadmap (1 серпня)
+
+**Липень 2025**
+- Top 10 Docker Commands Every Data Engineer Should Know (18 липня)
+- SQL vs. Excel: When to Use Each for Data Analysis (11 липня)
+- The Role of Data Science in Enhancing Weapon Detection Systems (8 липня)
+
+**Червень 2025**
+- Top 10 Soft Skills Every Data Scientist Needs to Succeed (20 червня)
+- Managing Schema Evolution in Data Pipelines (16 червня)
+- Top Open-Source Tools Every Data Engineer Should Know (13 червня)
+- Harnessing LLMs and Snowflake for Scalable Sentiment Analysis (2 червня)
+
+**Травень 2025**
+- Hypothesis Testing in Data Science: Validating Decisions with Data (30 травня)
+- Bayesian Statistics: A Key Tool in Modern Data Science (9 травня)
+
+**Квітень 2025**
+- Data Normalization: What Is It, and Why Is It Crucial in Databases? (25 квітня)
+- Effective Data Democratization: Key Components and Best Practices (4 квітня)
+
+**Березень 2025**
+- Data Drift: What It Is, Why It Matters, and How to Tackle It (21 березня)
+- Time Series Analysis in Python: Key Concepts and Forecasting (14 березня)
+- The Rise of AI in Advancing Data Visualization (3 березня)
+
+**Лютий 2025**
+- Predictive Modeling Types and Algorithms for Data Success (14 лютого)
+- Key Data Science Roles in 2025: Responsibilities and Salaries (7 лютого)
+
+**Січень 2025**
+- The Role of Data Science Certifications in Shaping Your Career (24 січня)
+- Efficient Data Transformation Techniques for Optimized Analysis (17 січня)
+- How to Create Impactful Data Visualizations with D3.js? (3 січня)
+
+## 2024 рік
+
+**Грудень 2024**
+- The Future of Data Science: Emerging Trends for 2025 and Beyond (26 грудня)
+- Effective Data Masking: Techniques and Best Practices (20 грудня)
+- The Role of Data Quality in Shaping the Future of Data Science (13 грудня)
+- Leveraging Machine Learning for Strategic Decision-Making in Capital Projects (6 грудня)
+- Transforming Business with AI-Driven Customer Acquisition Strategies (4 грудня)
+- Effective Steps for Performing Accurate Statistical Analysis (4 грудня)
+
+**Листопад 2024**
+- What is Data Inventory and How to Create it Effectively? (29 листопада)
+- Effortless Data and Model Versioning with DVC (14 листопада)
+- Understanding Real-Time Data Analytics and How It Works (7 листопада)
+
+**Жовтень 2024**
+- Data Anonymization: Protecting Privacy in Large-Scale Analytics (30 жовтня)
+- Why Detecting Outliers is Crucial for Accurate Data Analysis? (25 жовтня)
+- Top Data Science Projects for Real-World Impact (11 жовтня)
+- Essential Regression Analysis Techniques for Data Science (4 жовтня)
+- Advanced SQL Techniques to Transform Data Analysis (3 жовтня)
+
+**Вересень 2024**
+- Scheduling Data Pipelines with Apache Airflow: A Beginner's Guide (20 вересня)
+- Effective Data Storytelling: Tips and Techniques for Success (10 вересня)
+- Unlocking Data Manipulation in Python: Key Pandas Techniques (9 вересня)
+- Essential Statistical Tests for Data Scientists (6 вересня)
+
+**Серпень 2024**
+- A Comprehensive Guide to Mastering Exploratory Data Analysis (23 серпня)
+- Getting Started with Power BI for Data Visualization (16 серпня)
+- Using Pandas for Effective Data Cleaning and Preprocessing (2 серпня)
+- How to Master Web Scraping with Python and BeautifulSoup? (2 серпня)
+
+**Липень 2024**
+- The Ultimate Guide to Building Recommendation Systems in Python (19 липня)
+
+**Червень 2024**
+- Master Data Science with these Best Practices for Jupyter Notebook (28 червня)
+- The Essentials of Git for Budding Data Scientists (21 червня)
+
+**Травень 2024**
+- How to Choose the Perfect Data Analysis Tool: A Step-by-Step Guide (31 травня)
+- How to Become a Data Scientist: Steps and Top Reasons (24 травня)
+- Unlocking Data's Potential: Why Effective Data Ingestion Matters (17 травня)
+- What is Data Mapping? Your Roadmap to Streamlined Analytics (3 травня)
+
+**Квітень 2024**
+- Data Mining vs. Data Profiling: How Do They Differ? (26 квітня)
+- How Does Multimodal Data Enhance Machine Learning Models? (26 квітня)
+- What is Statistical Modeling in Data Science? (19 квітня)
+- Strategies for Handling Missing Values in Data Analysis (19 квітня)
+- Shining Light on Explainable AI: The Black Box for Data Scientists (12 квітня)
+- The Vital Role of Data Engineers in Managing Data Lakes (12 квітня)
+
+**Березень 2024**
+- Decision Trees: A Powerful Data Analysis Tool for Data Scientists (29 березня)
+- What is a Batch Data Pipeline? How to Build One? (27 березня)
+- Color Psychology in Data: The Role of Color in Data Visualization (15 березня)
+- Responsible AI: Ethics, Challenges, and Benefits (15 березня)
+- How Does Data-Driven Decision Making Improve Business Outcomes? (4 березня)
+- Women in Data Science: Challenges, Opportunities, and the Path Forward (4 березня)
+
+**Лютий 2024**
+- Why Data Science Tops the List of In-Demand Skills? Find Out Now! (23 лютого)
+- The Art of Data Wrangling in 2024: Techniques and Trends (16 лютого)
+- Data Warehouse vs. Data Mart vs. Data Lake: Key Differences (2 лютого)
+
+**Січень 2024**
+- What Makes Python the go-to Language for Data Scientists? (24 січня)
+- Which Programming Language is Ideal for Data Science: Python or R? (24 січня)
+
+## 2023 рік
+
+**Грудень 2023**
+- How is Data Science the Essential Tool for Business Success? (28 грудня)
+- Data Science Tools: What's Their Role and Why Are They Important? (14 грудня)
+
+**Листопад 2023**
+- Navigating Data Complexity with Augmented Analytics (30 листопада)
+- Mastering Database Migration: Best Practices for Smooth Transitions (29 листопада)
+- Data Reconciliation: Enhancing Decision-Making and Preventing Catastrophic Errors (9 листопада)
+
+**Жовтень 2023**
+- Data Integration in the Modern Age: Adapting to Dynamic Landscapes (27 жовтня)
+- Elevate Data Science with Cloud Computing: A Symbiotic Partnership (19 жовтня)
+- Big Data Processing: Transforming Data into Actionable Insights (19 жовтня)
+- Navigating Uncharted Space: Harnessing Data Analytics in Space Exploration (10 жовтня)
+
+**Вересень 2023**
+- Mobilizing Data Science in Healthcare: Applications, Challenges, and Solutions (5 вересня)
+
+**Липень 2023**
+- Unveiling the Inner Workings: A Glimpse into a Day in the Life of a Data Scientist (7 липня)
+
+**Червень 2023**
+- What is a Data Warehouse and why is it Important? (23 червня)
+
+**Травень 2023**
+- The Rise of ChatGPT: Can It Replace Big Data Engineers? (12 травня)
+- Discovering The Power of ChatGPT for Data Science (5 травня)
+
+**Березень 2023**
+- Data Science and the Evolving Landscape of Industries (24 березня)
+
+**Січень 2023**
+- Modern Developments Data Engineers Will Witness in 2023 (23 січня)
+- Comprehending The Gripping Roles of Python Developers in Data Science (3 січня)
+
+## 2022 рік
+
+**Листопад 2022**
+- Make Data Work for You with These Top Data Mining Tools and Techniques (22 листопада)
+
+**Серпень 2022**
+- 9 Common Mistakes Data Scientists Must Avoid (12 серпня)
+
+**Липень 2022**
+- A Beginners Guide to Predictive Analytics: Turning Data Into Insights (29 липня)
+- Data Warehouse Architecture and Design: A Reflective Guide (15 липня)
+
+**Червень 2022**
+- What is Data Modeling and Why Do You Need It? (30 червня)
+- Data Observability: The Next Frontier of Data Engineering (9 червня)
+
+**Березень 2022**
+- Top Trends & Predictions That Will Drive Data Science in 2022 (10 березня)
+
+**Лютий 2022**
+- Importance of Data-Driven Storytelling: Data Analysis & Visual Narratives (4 лютого)
+
+## 2021 рік
+
+**Грудень 2021**
+- How To Transform Your Analytics Maturity Model: Levels, Technologies, and Applications (17 грудня)
+- Maximize Your D&A Strategy: The Role Of A Citizen Data Scientist (15 грудня)
+
+**Листопад 2021**
+- Is Data Visualization Literacy Part of Your Company Culture? (9 листопада)
+
+**Жовтень 2021**
+- Automated Data Analytics: How, When & Why? (27 жовтня)
+- Augmented Analytics: The Future Of Data & Analytics (13 жовтня)
+
+**Вересень 2021**
+- Top critical capabilities for a data scientist (3 вересня)
+- Pandas vs. SQL – Tools that Data Scientists use most often (1 вересня)
+
+**Серпень 2021**
+- Know How to Create and Visualize a Decision Tree with Python (20 серпня)
+- Industrial Data Scientist: The New Limb of Industrial Workforce (20 серпня)
+
+**Липень 2021**
+- Data Science: The New Skill for Today's Entrepreneurs (26 липня)
+- Achieving Business Success with Data (20 липня)
+- Top 3 Interesting Careers in Big Data (1 липня)
+- Why Big Data Automation is Important for Your Business (1 липня)
+
+**Червень 2021**
+- The Value of Data Visualization for Data Science Professionals (17 червня)
+- #LearnAtHome with SDS™ – the premier data science certification (1 червня)
+
+**Травень 2021**
+- Why Data Scientists Should Learn Machine Learning (28 травня)
+- The Simple 5-Step Process for Creating a Winning Data Pipeline (18 травня)
+- Why a Data Analyst Requires a Data Analytics Certification (17 травня)
+- Top Data Analyst skills you need to master in 2021 (13 травня)
+
+**Квітень 2021**
+- Best 5 BI Tools Widely Applicable for Data Visualization (22 квітня)
+- 6 Business Areas Where You Cannot Succeed without a Data Scientist (13 квітня)
+- Top 6 Programming Languages for Data Science in 2021 (9 квітня)
+
+**Березень 2021**
+- 5 Statistical Concepts to Win You a Data Science Job (11 березня)
+- Data Science Core Skills – What Matters the Most in 2021 (5 березня)
+
+**Лютий 2021**
+- Data Analysis: The Decisive Factor of Percentage in Discount (17 лютого)
+
+**Січень 2021**
+- Top 7 Big Data Trends to Dominate 2021 (29 січня)
+
+## 2020 рік
+
+**Грудень 2020**
+- 7 Best Big Data Hadoop Analytics Tools in 2021 (15 грудня)
+
+**Листопад 2020**
+- What You Must Know Before Choosing a BDaaS Provider (5 листопада)
+
+**Жовтень 2020**
+- Data Science Driven Recommender Systems in the Post-COVID Era (16 жовтня)
+
+**Вересень 2020**
+- It's A Data War. And Here's Your War Room (17 вересня)
+
+**Серпень 2020**
+- Why Every Data Scientist Wants a Data Engineer (28 серпня)
+- How Data Scientists Can Build an Innovation Culture (12 серпня)
+
+**Липень 2020**
+- Why Managing Projects is A Failed Approach? (29 липня)
+- 7 COVID-19 Statistical Methods Every Data Science Professional Must Know (1 липня)
+
+**Червень 2020**
+- Senior Data Scientist Certification – All You Need to Know (10 червня)
+
+**Травень 2020**
+- The True Worth of a Data Driven Culture as Explained by Data (21 травня)
+
+**Квітень 2020**
+- Managing Risks Using Monte Carlo Simulations (24 квітня)
+- Architecting a Data Lake (1 квітня)
+
+**Березень 2020**
+- Netflix, Walmart, Uber and More: Big wins with Big Data (20 березня)
+
+**Лютий 2020**
+- Salary Monitor: Data Scientist 2020 (24 лютого)
+- Top 20 Data Science Platforms & Their Most Common Uses (7 лютого)
+- Tips to turn big data into success (7 лютого)
+
+**Січень 2020**
+- What CEOs Want from Data Science Professionals? (8 січня)
+
+## 2019 рік
+
+**Грудень 2019**
+- Beginning of a Trend: The Cloud War is Real (31 грудня)
+
+**Жовтень 2019**
+- Senior Big Data Engineer Certification - Because Big Data Doesn't Build Itself (9 жовтня)
+
+**Вересень 2019**
+- Using Transfer Learning as A Powerful Baseline for Deep Learning (25 вересня)
+- Big Data Business Model Maturity Index (12 вересня)
+
+**Серпень 2019**
+- Machine Learning for Recommender Systems - A Primer (28 серпня)
+- Unveiling Data Infrastructure's Hidden Architecture Layer by Layer (14 серпня)
+
+**Липень 2019**
+- Gradient Boosting for Beginners (23 липня)
+- How Data Scientists Will Fit In Data-Driven Cultures of Future (3 липня)
+
+**Червень 2019**
+- Big Data Making Waves in the Global Defense Industry (4 червня)
+
+**Травень 2019**
+- Problem Solving the Easy Way with Machine Learning: An Approach (8 травня)
+
+**Квітень 2019**
+- Decoding the Anatomy of NLP and Its Applications (24 квітня)
+
+**Березень 2019**
+- Identifying and Removing Outliers Using Python Packages (5 березня)
+
+**Лютий 2019**
+- Data Driven Decision Making – Insights Into Action (20 лютого)
+- For The Greater Good – When Data Science Serves Humanity (5 лютого)
+
+**Січень 2019**
+- Ahead Of The Curve – How Quantum Neural Networks Are Reshaping ML (22 січня)
+- Affinity For The Market Basket Analysis! Everything You Need To Know (8 січня)
+
+## 2018 рік
+
+**Грудень 2018**
+- The Next Wave Of Machine Learning - Does 2019 Belong To Reinforcement Learning (27 грудня)
+- Big Data Issues We Don't Talk About, but Should (12 грудня)
+
+**Листопад 2018**
+- Aging of IoT – Slow, Painful Death or Will it Thrive Against All Odds? (29 листопада)
+- Through The Eyes of AI – Computer Vision (15 листопада)
+
+**Жовтень 2018**
+- Data-Driven Shows in Action – Brought to You by NETFLIX! (31 жовтня)
+- Data Science and Stem – The Match That Should be, But isn't (23 жовтня)
+- R- Not Statistical Computing Anymore! (17 жовтня)
+
+**Вересень 2018**
+- Starting a Data Science Project? These Ingredients will Help! (24 вересня)
+- Machine Learning: Tensor Networks Explained for the Beginner (24 вересня)
+
+**Серпень 2018**
+- Real-time Analytics in Big Data, "Really" works!! (13 серпня)
+
+## 2017 рік
+
+**Червень 2017**
+- Why Big Data Analytics (7 червня)
+- Outsourcing Big Data Analytics (6 червня)
+
+**Травень 2017**
+- Conquer Your Machine Learning Blues With K-Means Clustering (31 травня)
+
+## 2016 рік
+
+**Лютий 2016**
+- Competing Smart Through Big Data (18 лютого)
+- Big Data Tools Vs Big Data Roles (17 лютого)
+- Big data Value Potential (17 лютого)
+- Big Data Salaries (16 лютого)
+- Big Data Talent Shortage In US (9 лютого)
+- Big Data - Manufacturing (9 лютого)
+- Big Data- Keeping Healthcare Healthy (5 лютого)
+- Big Data Execution Challenges (3 лютого)
+- Big Data Analytics- The Many Names (2 лютого)
+- Analysts Vs Scientists - The Big Data Puzzle (1 лютого)
+
+**Загалом:** 232 публікації за період з лютого 2016 по серпень 2025 року.
+
+------------------
+
+
 - SQL vs. Excel: When to Use Each for Data Analysis, https://www.dasca.org/world-of-data-science/article/sql-vs-excel-when-to-use-each-for-data-analysis
 - Effective Data Storytelling: Tips and Techniques for Success, https://www.dasca.org/world-of-data-science/article/effective-data-storytelling-tips-and-techniques-for-success
 - The Value of Data Visualization for Data Science Professionals, https://www.dasca.org/world-of-data-science/article/the-value-of-data-visualization-for-data-science-professionals

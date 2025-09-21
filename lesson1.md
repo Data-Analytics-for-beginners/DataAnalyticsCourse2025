@@ -147,6 +147,9 @@ https://medium.com/data-science-collective/explaining-ai-machine-learning-and-da
 
 ## Три основні типи машинного навчання
 
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*Vf-8ifXHzmLN0YO0.png)
+
+
 ### 1. Навчання з учителем (Supervised Learning)
 
 **Принцип**: Навчання на прикладах з правильними відповідями

@@ -4,6 +4,7 @@
 - AI and the Data Science Job Market: What the Hell Is Actually Happening?, https://medium.com/data-science-collective/ai-and-the-data-science-job-market-what-the-hell-is-actually-happening-30efd3a7e437
 - Ultimate Guide to Building a Data Science Portfolio (That Lands Interviews), https://medium.com/data-science-collective/ultimate-guide-to-building-a-data-science-portfolio-that-lands-interviews-1770c7a31091
 - Explaining AI, Machine Learning, and Data Science — The Way I Told My Dad!, https://medium.com/data-science-collective/explaining-ai-machine-learning-and-data-science-the-way-i-told-my-dad-2e4566129310
+- How to Perform Exploratory Data Analysis (EDA) for Better Insights, https://medium.com/h7w/how-to-perform-exploratory-data-analysis-eda-for-better-insights-97752df41066#:~:text=How%20to%20Perform%20Exploratory%20Data%20Analysis%20(EDA)%20for%20Better%20Insights
 
 
 -------------------------------

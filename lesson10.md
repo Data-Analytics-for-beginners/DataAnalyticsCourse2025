@@ -17,3 +17,8 @@
 - A Step-by-Step Guide: Detecting Anomalies in Video Using Computer Vision, https://medium.com/@sajidkhan.sjic/a-step-by-step-guide-detecting-anomalies-in-video-using-computer-vision-03e5321b77e3
 - Image Features Extraction, https://medium.com/@amaralistu/features-extraction-f5eff88428c6
 - 
+  ----------------------------------------------------------------------------------------------------------------
+
+  - Unsupervised Machine Learning, https://dilipkumar.medium.com/unsupervised-machine-learning-9847aa1dc1aa
+  - Determining the Optimal Number of Clusters Using the Elbow Method: How, When, Where, What, and Why, https://medium.com/@tarangds/determining-the-optimal-number-of-clusters-using-the-elbow-method-how-when-where-what-and-why-cd1e94b82c1e
+  - 

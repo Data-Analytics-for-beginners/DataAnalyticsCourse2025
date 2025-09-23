@@ -14,3 +14,6 @@
 - Machine Learning Lesson 7: Handling Imbalanced Data, https://medium.com/@ai_academy/machine-learning-lesson-7-handling-imbalanced-data-2ef487e04885
 - 
 - Machine Learning Lesson 11: Support Vector Machine, https://medium.com/@ai_academy/machine-learning-lesson-11-support-vector-machine-1c647ed214d8
+- A Step-by-Step Guide: Detecting Anomalies in Video Using Computer Vision, https://medium.com/@sajidkhan.sjic/a-step-by-step-guide-detecting-anomalies-in-video-using-computer-vision-03e5321b77e3
+- Image Features Extraction, https://medium.com/@amaralistu/features-extraction-f5eff88428c6
+- 

@@ -21,4 +21,31 @@
 
   - Unsupervised Machine Learning, https://dilipkumar.medium.com/unsupervised-machine-learning-9847aa1dc1aa
   - Determining the Optimal Number of Clusters Using the Elbow Method: How, When, Where, What, and Why, https://medium.com/@tarangds/determining-the-optimal-number-of-clusters-using-the-elbow-method-how-when-where-what-and-why-cd1e94b82c1e
+  - Different ML models, https://medium.com/@indrajeetgangawane08/different-ml-models-4a7744e02865
   - 
+
+
+- Web Visualization of Remote Sensing Data via Google Earth Engine with the LLM, https://medium.com/elspinaveinz/web-visualization-of-remote-sensing-data-via-google-earth-engine-with-the-llm-63521a437f11
+- Application of Remote Sensing Data in Agriculture, https://medium.com/elspinaveinz/application-of-remote-sensing-data-in-agriculture-9088cd42a397
+- Summary of commercial very high-resolution satellite data, https://medium.com/elspinaveinz/summary-of-commercial-very-high-resolution-satellite-data-beec6031edbc
+- A Python-Based Workflow for Land Cover Classification Using Geemap, Rasterio, Geopandas, Numpy, Matplotlib and Scikit-learn, https://medium.com/@preet.balaji20/a-python-based-workflow-for-land-cover-classification-using-geemap-rasterio-geopandas-numpy-1e00dc18a30e
+- Decoding Synthetic Aperture Radar (SAR) remote sensing: SAR Series Part 1:Getting started, https://medium.com/@preet.balaji20/decoding-synthetic-aperture-radar-sar-remote-sensing-sar-series-part-1-getting-started-d3409eb3b2e3
+- SAR Series Part 7: SAR Interferometry (InSAR) Quick Reference Guide, https://medium.com/@preet.balaji20/sar-series-part-7-sar-interferometry-insar-quick-reference-guide-7689681cd3d3
+- SAR Forest Monitoring Series Part1: PALSAR-2 image access and visualization in Google Earth Engine Python API, https://medium.com/@preet.balaji20/sar-forest-monitoring-series-part1-palsar-2-image-access-and-visualization-in-google-earth-engine-f30bc10f16af
+- Building a Live Weather and AQI Map App with Python and Streamlit, https://medium.com/@preet.balaji20/building-a-live-weather-and-aqi-map-app-with-python-and-streamlit-979cee283843
+- 
+
+
+# FRAUD DETECTION
+
+- Detecting Fraud with Advanced Machine Learning Algorithms: Random Forests and Voting Ensembles, https://medium.com/@vikashsinghy2k/detecting-fraud-with-advanced-machine-learning-algorithms-random-forests-and-voting-ensembles-d17f85363a9a
+- Step-by-step Guide to Fraud Detection and Prediction Using Python, https://medium.com/@vikashsinghy2k/can-you-outsmart-the-fraudsters-lets-catch-them-with-python-679db6f35365
+- Bank Customer Churn Prediction using Random Forest Classifier, https://medium.com/@zargi.teddy7/bank-customer-churn-prediction-using-random-forest-classifier-4353f3ac8270
+- A Comparative Study of K-Means Clustering and Rule-Based Customer Segmentation for RFM Analysis on the UCI Machine Learning Online Retail Dataset, https://medium.com/@zargi.teddy7/a-comparative-study-of-k-means-clustering-and-rule-based-segmentation-for-rfm-analysis-on-the-uci-5ca3db89fc0b
+- 
+
+
+
+# EXEL
+- Automate Excel Chart Making with Python, https://medium.com/@kyle-t-jones/automate-excel-chart-making-with-python-fb8650721590
+- 

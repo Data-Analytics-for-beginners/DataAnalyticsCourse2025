@@ -42,6 +42,7 @@
 - Step-by-step Guide to Fraud Detection and Prediction Using Python, https://medium.com/@vikashsinghy2k/can-you-outsmart-the-fraudsters-lets-catch-them-with-python-679db6f35365
 - Bank Customer Churn Prediction using Random Forest Classifier, https://medium.com/@zargi.teddy7/bank-customer-churn-prediction-using-random-forest-classifier-4353f3ac8270
 - A Comparative Study of K-Means Clustering and Rule-Based Customer Segmentation for RFM Analysis on the UCI Machine Learning Online Retail Dataset, https://medium.com/@zargi.teddy7/a-comparative-study-of-k-means-clustering-and-rule-based-segmentation-for-rfm-analysis-on-the-uci-5ca3db89fc0b
+- AI for Fraud Detection in Banking and Finance, https://medium.com/ai-in-plain-english/ai-for-fraud-detection-in-banking-and-finance-91a517412c5b
 - 
 
 

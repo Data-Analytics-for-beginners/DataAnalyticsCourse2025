@@ -50,3 +50,8 @@
 # EXEL
 - Automate Excel Chart Making with Python, https://medium.com/@kyle-t-jones/automate-excel-chart-making-with-python-fb8650721590
 - 
+
+--------------------------------------------
+
+- MLOps in 2025: Tools Every Data Scientist Should Master, https://medium.com/@shouke.wei/mlops-in-2025-tools-every-data-scientist-should-master-0714104d7847
+- 

@@ -70,6 +70,8 @@
 - 20 Data Analytics Projects for All Levels, https://www.datacamp.com/blog/data-analytics-projects-all-levels
 - Data Analytics Real-World Projects in Python, https://www.udemy.com/course/data-analytics-projects-python/?Telegram-%40UdemyFree4You=&amp%3BcouponCode=FEB_SALE&utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_Keyword_Alpha_Prof_la.ES_cc.ROW-Spanish&campaigntype=Search&portfolio=ROW-Spanish&language=ES&product=Course&test=&audience=Keyword&topic=DataScience&priority=Alpha&utm_content=deal4584&utm_term=_._ag_160294400530_._ad_762856700347_._kw_data+science+con+python_._de_c_._dm__._pl__._ti_kwd-333340338463_._li_9061017_._pd__._&matchtype=b&gad_source=1&gad_campaignid=21487757262&gbraid=0AAAAADROdO3yUgRG-HncJ3qUgoSbtuuN8&gclid=Cj0KCQjwrc7GBhCfARIsAHGcW5U5FQR0PoWmGTRFw1nGzyJyAF3QL04bDyYU8cXfct64WWUJ_3CsKA8aAnUFEALw_wcB&couponCode=PMNVD2525
 - Data Analysis Bootcamp™ 21 Real World Case Studies, https://www.udemy.com/course/the-data-analyst-bootcamp/?couponCode=PMNVD2525
+- Machine Learning Real World projects in Python, https://www.udemy.com/course/machine-learning-real-world-projects-in-python/?couponCode=PMNVD2525
+- 
 
 
 

@@ -55,3 +55,14 @@
 
 - MLOps in 2025: Tools Every Data Scientist Should Master, https://medium.com/@shouke.wei/mlops-in-2025-tools-every-data-scientist-should-master-0714104d7847
 - 
+
+
+
+
+# DEEP LEARNING
+
+- Hyperparameters 101: Your One-Stop Guide for All Deep Learning Models (Part 1), https://medium.com/@daminisaini95/hyperparameters-101-your-one-stop-guide-for-all-deep-learning-models-part-1-86f163f58a53
+- Deep Learning Specialization, https://medium.com/data-science-collective/deep-learning-specialization-fundamentals-architectures-and-applications-5ce568b769e4
+- Deep Learning Specialization: Understanding Multi-Layer Perceptron (MLP) Inside Out, https://medium.com/data-science-collective/deep-learning-specialization-understanding-multi-layer-perceptron-mlp-inside-out-f3ff465a521f
+- Deep Learning Specialization: Perceptron Explained — Building Blocks, Working & Limitations, https://ai.plainenglish.io/deep-learning-specialization-perceptron-explained-building-blocks-working-limitations-c1e3b0815f08
+- 

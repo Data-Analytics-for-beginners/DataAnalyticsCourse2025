@@ -44,3 +44,10 @@
 # 
 - Building Secure, Role-Based Embedded Dashboards with Apache Superset, FastAPI, and React, https://medium.com/@sameerhussain230/building-secure-role-based-embedded-dashboards-with-apache-superset-fastapi-and-react-3798ed7f8651
 - 
+
+
+
+# FRAUD DETECTION
+
+- Data Science in Fraud Detection: My Experience Building Smarter Security Systems, https://medium.com/pythoneers/data-science-in-fraud-detection-my-experience-building-smarter-security-systems-59ddb009427b
+- 

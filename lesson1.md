@@ -1,4 +1,11 @@
 
+  ### Посилання: 
+ - https://www.datacamp.com/datalab/w/22cc2189-a4df-4ed0-b8ee-a74b1d80792d/edit
+ - 
+
+
+
+
 # 📚 Вступ до Python
 
 ## Зміст

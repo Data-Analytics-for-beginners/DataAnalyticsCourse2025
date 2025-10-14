@@ -183,3 +183,8 @@
 [8. Монітор використання пам'яті ](https://github.com/Data-Analytics-for-beginners/real-time-memory-usage-monitor)
 
 
+
+
+# Посилання:
+
+- Посібник з Markdown, 

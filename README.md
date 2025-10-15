@@ -194,4 +194,7 @@
 
 # Посилання:
 
-- Посібник з Markdown, 
+- Посібник з Markdown,
+- Want to be a Data Analyst? Learn These Skills, https://www.youtube.com/watch?v=QsoYxQCznn4
+- Data Analyst Roadmap, https://roadmap.sh/data-analyst
+- 

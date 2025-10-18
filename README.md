@@ -212,6 +212,8 @@
 - Посібник з Markdown, https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Markdown-Guide.md
 - Data Analyst Roadmap, https://roadmap.sh/data-analyst
 -------------------------------------------------------------------------------------------------
+
+# Data Career Podcast
 - Data Career Podcast, https://www.youtube.com/playlist?list=PLo0oTKi2fPNjU4Jq4LjnpaPMEvdrtZIJ6
 - Want to be a Data Analyst? Learn These Skills, https://www.youtube.com/watch?v=QsoYxQCznn4
 

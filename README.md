@@ -348,7 +348,7 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 
 [Students' Social Media Addiction Analysis](https://github.com/vitalii-84/Social-Media-Addiction)
 
-
+[Real Estate Market Analysis][https://github.com/Okhra83/real-estate-market-analysis.git]
 
 
 

@@ -346,6 +346,8 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 
 [Глобальні патерни фізичної активності населення та їх потенційний вплив на якість життя](https://github.com/filippbarri/HealthBenefits/tree/main)
 
+[Students' Social Media Addiction Analysis](https://github.com/vitalii-84/Social-Media-Addiction)
+
 
 
 

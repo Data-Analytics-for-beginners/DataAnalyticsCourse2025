@@ -268,9 +268,9 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 - Підготовка до проекту Data Analytics
 
 ----------------------------------------------
-ПЗ 1:  Панель погоди в реальному часі (https://github.com/Data-Analytics-for-beginners/weather-dashboard)
-ПЗ 2 : Візуалізація клінічних досліджень з Neo4j (https://github.com/Data-Analytics-for-beginners/Clinical-Trials-Graph)
-ДЗ №1: Підготовка до проекту Data Analytics 
+- ПЗ 1:  Панель погоди в реальному часі (https://github.com/Data-Analytics-for-beginners/weather-dashboard)
+- ПЗ 2 : Візуалізація клінічних досліджень з Neo4j (https://github.com/Data-Analytics-for-beginners/Clinical-Trials-Graph)
+- ДЗ №1: Підготовка до проекту Data Analytics 
 
 ----------------------------------------------
 

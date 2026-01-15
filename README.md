@@ -367,6 +367,9 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 
 # Книги:
 - [Stream Processing with Apache Flink. Fundamentals, Implementation, and Operation of Streaming Applications](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/Stream%20Processing%20with%20Apache%20Flink.pdf)
+
+
+# Інші матеріали
 - [Data Analyst roadmap](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/Data%20Analyst%20Roadmap.pdf)
 - [Data Scientist Roadmap](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/DataScientistRoadmap.pdf)
 - [Exploratory Data Analysis (EDA) in Python](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/Exploatory%20Data%20Analysis%20%20in%20Python.pdf)

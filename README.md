@@ -258,6 +258,22 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 ### 13. Підготовка до проєкту Data Analytics
 Планування, постановка цілей та задач проєкту з аналізу даних.
 
+- Стратегії збору даних
+- Графові алгоритми. Розуміння зв`язків та структури 
+- Основи NoSQL. Графові бази даних (Neo4j)
+- Вступ до Natural Language Processing (NLP)
+- Розпізнавання іменованих сутностей (Named Entity Recognition, NER) в тексті 
+- Тематичне моделювання в NLP
+- Використання GitHub
+- Підготовка до проекту Data Analytics
+
+----------------------------------------------
+ПЗ 1:  Панель погоди в реальному часі (https://github.com/Data-Analytics-for-beginners/weather-dashboard)
+ПЗ 2 : Візуалізація клінічних досліджень з Neo4j (https://github.com/Data-Analytics-for-beginners/Clinical-Trials-Graph)
+ДЗ №1: Підготовка до проекту Data Analytics 
+
+----------------------------------------------
+
 ### 14. Проведення проєкту Data Analytics
 Збір та обробка даних, побудова моделей і візуалізація результатів.
 

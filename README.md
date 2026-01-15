@@ -374,6 +374,6 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 - [Data Scientist Roadmap](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/DataScientistRoadmap.pdf)
 - [Exploratory Data Analysis (EDA) in Python](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/Exploatory%20Data%20Analysis%20%20in%20Python.pdf)
 - [Functions used by Data Analyst](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/Functions%20used%20by%20Data%20Analyst.pdf)
-- [](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/Excel%20Data%20Analysis.pdf)
+- [Excel Data Analysis](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Resources/books/Excel%20Data%20Analysis.pdf)
 
 
